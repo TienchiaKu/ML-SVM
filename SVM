@@ -1,4 +1,4 @@
-#version: anaconda 2019.03
+#version: anaconda 4.5.4
 
 #匯入pandas及csv檔
 import pandas as pd
